@@ -75,8 +75,7 @@ ul.accordion li a, ul.accordion li img {
 }
 
 ul.accordion li:hover {
-  width: 60%; /* 100 - 10*(nºelem-1) // X=60 para ratio imagen */ 
-  background: #333;
+  width: 60%; 
 }
 
 ul.accordion li:hover h4 {
@@ -93,8 +92,3 @@ ul.accordion li:hover a, ul.accordion li:hover a img {
 }
 
 /* Source code used from http://codepen.io/oloman/details/Gynoq/ */
-
-/* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
-}
