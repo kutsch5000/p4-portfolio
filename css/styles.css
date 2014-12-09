@@ -33,7 +33,6 @@ ul.accordion {
   text-align: center;
   list-style: none;
   font-size: 0;
-  box-shadow: 0 0 10px #333;
 }
 
 ul.accordion li {
@@ -44,7 +43,7 @@ ul.accordion li {
   padding-bottom: 40%; /* Ratio aspecto imagen = (height*X)/width */
   background: black;
   text-align: center;
-  box-shadow: -2px 0px 8px #999;
+  box-shadow: -2px 0px 8px red;
 }
 
 ul.accordion li h4 {
